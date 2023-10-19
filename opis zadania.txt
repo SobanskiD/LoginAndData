@@ -1,0 +1,8 @@
+Zadanie jest następujące. Mając załączoną listę uczestników programu i zależności między nimi ( przypisanie) zrób proszę 
+1. tabela users z danymi z excela + danymi które uznasz za potrzebne do logowania i utrzymywania stanu zalogowania
+2. logowanie / wylogowanie
+3. stronę   "zasady" dostępną dla wszystkich zalogowanych ( na stronie wystarczy że będzie : echo "zasady" )
+4. dla typu PH/Regio listę uczestników przypisanych do zalogowanego PH/Regio - tu uwaga , jeden Regio jest jednocześnie PH, z tej strony link do szczegółów danego uczestnika z listy ( na tej stronie wystarczy  var_dump($user) )
+
+
+aktualna wersja CI4 : https://codeigniter.com/download
